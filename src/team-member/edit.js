@@ -220,7 +220,7 @@ function Edit({
 							);
 						})}
 						{isSelected && (
-							<li className="p-block-blocks-course-team-member-add-icon-li">
+							<li className="wp-block-blocks-course-team-member-add-icon-li">
 								<Tooltip
 									text={__('Add Social Link', 'team-members')}
 								>
